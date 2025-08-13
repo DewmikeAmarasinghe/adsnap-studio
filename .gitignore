@@ -62,3 +62,6 @@ id_ecdsa*
 *.m4a
 *.jpg
 *.jpeg
+
+.dockerignore
+.gitattributes
