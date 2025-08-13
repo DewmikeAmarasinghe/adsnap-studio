@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local development
+*.log
+logs/
+
+# Project specific
+*.pth
+*.pkl
+*.h5
+*.pt
+*.onnx
+*.safetensors
+
+# SSH keys
+*_rsa
+*_rsa.pub
+*_dsa
+*_dsa.pub
+*_ed25519
+*_ed25519.pub
+*_ecdsa
+*_ecdsa.pub
+id_rsa*
+id_dsa*
+id_ed25519*
+id_ecdsa*
+
+# Large files
+*.zip
+*.tar.gz
+*.mp4
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.jpg
+*.jpeg
