@@ -50,7 +50,7 @@ BRIA_API_KEY=your_api_key_here
 
 4. Run the app:
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ## 💡 Usage
