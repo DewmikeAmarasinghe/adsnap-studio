@@ -1,3 +1,14 @@
+---
+title: AdSnap Studio
+emoji: 🎨
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.32.0"
+app_file: streamlit_app.py
+pinned: false
+---
+
 # 🎨 AdSnap Studio
 
 A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs.
@@ -86,31 +97,23 @@ This project has been enhanced with several key improvements and bug fixes:
 - **Fixed Image Generation Failures**: Improved API response parsing and URL extraction logic
 - **Fixed Session State Persistence**: Resolved data loss issues when navigating between tabs
 - **Fixed Import Dependencies**: Updated all service imports and exports for proper module resolution
-
 ### 🎨 UI/UX Improvements:
 - **Enhanced Error Handling**: Added comprehensive error messages and debugging information
 - **Improved File Management**: Clean codebase organization with proper file naming conventions
-
 ### 🔒 Security & Performance:
 - **Secure API Key Handling**: Masked input fields and proper environment variable management
 - **Optimized Audio Processing**: Efficient temporary file handling with automatic cleanup
 - **Content Moderation**: Built-in safety features for generated content
 - **Fallback Mechanisms**: Graceful degradation when APIs are unavailable
-
 ## 🤝 Contributing
-
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
 ## 📝 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
-
 - [Bria AI](https://bria.ai) for their powerful image generation APIs
 - [Streamlit](https://streamlit.io) for the amazing web framework
 - [Ayush Singh](https://www.youtube.com/watch?v=yH1IdJAN7jA) for the inspiring YouTube tutorial that served as the foundation for the Voice-to-Image feature implementation
