@@ -13,7 +13,7 @@ pinned: false
 
 [![Live Demo](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue.svg)](https://huggingface.co/spaces/Dewmike/adsnap-studio)
 
-> **Live Demo**: [View on Hugging Face Spaces](https://huggingface.co/spaces/Dewmike/adsnap-studio)
+> **Live Demo in Hugging Face**: [View on Hugging Face Spaces](https://huggingface.co/spaces/Dewmike/adsnap-studio)
 
 ---
 
