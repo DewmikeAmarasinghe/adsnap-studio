@@ -11,6 +11,12 @@ pinned: false
 
 # 🎨 AdSnap Studio
 
+[![Live Demo](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue.svg)](https://huggingface.co/spaces/Dewmike/adsnap-studio)
+
+> **Live Demo**: [View on Hugging Face Spaces](https://huggingface.co/spaces/Dewmike/adsnap-studio)
+
+---
+
 A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs.
 
 ## 🌟 Features
